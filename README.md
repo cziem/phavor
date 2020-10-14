@@ -1,16 +1,25 @@
-### Hi there 👋
+[![Hello 👋🏻](https://i.ibb.co/cD2djdy/George-Favour-Github-Banner.png)][1]
 
-<!--
-**phavor/phavor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey 👋🏻,
 
-Here are some ideas to get you started:
+Growing up in a consumer world, I have seen first-hand the limiting effect of this mindset. My mission is to reshape this mindset and help our growing communities become producers of quality software and technology solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Software Engineer currently in Abia, Nigeria. I write code and teach software engineers best principles at [LearnFactory Nigeria][5]. I love **JavaScript**, **ReactJS** and **Typescript**.
+
+You can see what I am currently up to on [kodeinstincts][1].
+
+## 📬 Reach me
+
+- Twitter: [twitter.com/george_favhor][3]
+- Blog: [https://kodeinstincts.hashnode.dev/][4]
+- LinkedIn: [https://www.linkedin.com/in/favourgeorge/][2]
+
+## 👷 My online hub 
+
+You can find my blog posts on [dev.to/phavor][4]. I write about dev journey, solved bugs, team management and Agile methodologies.
+
+[1]: https://kodeinstincts.hashnode.dev/
+[2]: https://www.linkedin.com/in/favourgeorge/
+[3]: https://twitter.com/george_favhor
+[4]: https://dev.to/phavor
+[5]: https://learnfactory.com.ng
