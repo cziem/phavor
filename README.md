@@ -4,7 +4,7 @@ Hey 👋🏻,
 
 Growing up in a consumer world, I have seen first-hand the limiting effect of this mindset. My mission is to reshape this mindset and help our growing communities become producers of quality software and technology solutions.
 
-I am Software Engineer currently in Abia, Nigeria. I write code and teach software engineers best principles at [LearnFactory Nigeria][5]. I love **JavaScript**, **ReactJS** and **Typescript**.
+I am a Software Engineer currently in Abia, Nigeria. I write code and teach software engineers best principles at [LearnFactory Nigeria][5]. I love **JavaScript**, **ReactJS** and **Typescript**.
 
 You can see what I am currently up to on [kodeinstincts][1].
 
