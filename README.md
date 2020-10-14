@@ -11,7 +11,7 @@ You can see what I am currently up to on [kodeinstincts][1].
 ## 📬 Reach me
 
 - Twitter: [twitter.com/george_favhor][3]
-- Blog: [https://kodeinstincts.hashnode.dev/][4]
+- Blog: [https://kodeinstincts.hashnode.dev/][1]
 - LinkedIn: [https://www.linkedin.com/in/favourgeorge/][2]
 
 ## 👷 My online hub 
